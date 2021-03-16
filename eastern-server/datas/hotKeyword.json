@@ -1,0 +1,44 @@
+[
+    {
+      "Keyword": "iPhone",
+      "Sequnce": 2,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/search?&key_word=apple&category3_id=&brand_id=&request=&page=1&order_by=0&order_key=%E4%B8%8A%E6%9E%B6%E6%97%B6%E9%97%B4"
+    },
+    {
+      "Keyword": "黄小厨",
+      "Sequnce": 3,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/static/activity/activityTemplate-PC.html?pageCode=MALL_M55215_2020102604004628"
+    },
+    {
+      "Keyword": "戴森",
+      "Sequnce": 4,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/static/activity/activityTemplate-PC.html?pageCode=MALL_000031_2020102210414357"
+    },
+    {
+      "Keyword": "星巴克",
+      "Sequnce": 5,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/detail/197370.html"
+    },
+    {
+      "Keyword": "保温杯",
+      "Sequnce": 6,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/static/activity/activityTemplate-PC.html?pageCode=MALL_M55215_2020102201313470"
+    },
+    {
+      "Keyword": "喜茶",
+      "Sequnce": 7,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/detail/217171.html"
+    },
+    {
+      "Keyword": "东航周边",
+      "Sequnce": 7,
+      "IsCustomerDefinedLink": true,
+      "PCLink": "https://shopping.ceair.com/search?&category2_id=54"
+    }
+  ]

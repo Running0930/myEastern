@@ -1,0 +1,37 @@
+{
+  "id": "2289017",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17479343",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8642726",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8642727",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5315864",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}
